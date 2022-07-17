@@ -1,0 +1,388 @@
+body{
+    background-color: rgb(22, 22, 22);
+}
+#titulo{
+    background-color: grey;
+    border-radius: 7px;
+    width: 40%;
+    margin: 0 auto 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+#frase{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+    text-align: justify;
+}
+hr{
+    background-color: grey;
+    border-color: grey;
+    border-radius: 7px;
+    height: 2px;
+    width: 65%;
+}
+
+
+
+
+
+
+
+#imagem1{
+    width: 54%;
+    height: 98%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto1{
+    margin-right: 15%;
+}
+#imagem2{
+    width: 90%;
+    height: 65%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto2{
+    margin-left: 15%;
+}
+#imagem3{
+    width: 73%;
+    height: 98%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto3{
+    margin-right: 15%;
+}
+#imagem4{
+    width: 70%;
+    height: 95%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto4{
+    font-size: 18px;
+    margin-top: 5%;
+}
+#imagem5{
+    width: 58%;
+    height: 98%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto5{
+    margin-right: 15%;
+}
+#imagem6{
+    width: 85%;
+    height: 70%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto6{
+    margin-left: 10%;
+    width: 85%;
+}
+#imagem7{
+    width: 65%;
+    height: 70%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto7{
+    text-align: center;
+    width: 85%;
+}
+#imagem8{
+    width: 65%;
+    height: 70%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto8{
+    width: 85%;
+}
+#imagem9{
+    width: 85%;
+    height: 50%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto9{
+    width: 100%;
+    font-size: 18px;
+}
+#imagem10{
+    width: 65%;
+    height: 90%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto10{
+    width: 85%;
+}
+#imagem11{
+    width: 65%;
+    height: 90%;
+    border: solid 4px rgb(188, 188, 194);
+    border-radius: 1%;
+}
+#texto11{
+    width: 85%;
+}
+
+
+
+
+
+
+#caixa{
+    width: 100%;
+}
+#espaço1{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 40%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço2{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 56%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço3{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço4{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço5{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço6{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço7{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 56%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço8{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 40%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço9{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço10{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço11{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 56%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço12{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 40%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço13{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço14{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço15{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço16{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço17{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 30%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço18{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 66%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço19{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço20{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#espaço21{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#espaço22{
+    float: right;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
